@@ -71,7 +71,7 @@ Design Choices and Patterns
 
 Dependency Injection (DI): Utilizes ASP.NET Core’s built-in DI container.
 
-Factory Pattern: Used in BookingService for DTO-to-model mapping.
+Factory Pattern: Used for DTO-to-model mapping.
 
 Event-Driven Communication: Service Bus (publish-subscribe) between AuthService and EmailVerificationService.
 
