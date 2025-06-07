@@ -9,7 +9,11 @@ https://ashy-cliff-0942cde03.6.azurestaticapps.net/
 
 DISCLAIMER:
 Some parts generated with ChatGPT o4. mini-high
+
+
 noticed after handing in this assignment that "Quantity" was not removed from Events SQL-table. this was supposed to refactories to TicketAmount, but seems to have slipped past.
+
+
 Placeholder images: https://picsum.photos/
 
 Overview
